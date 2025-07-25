@@ -1,0 +1,4 @@
+name: ItemFrameShiftActions
+version: '1.0-SNAPSHOT'
+main: me.emmatoocold.ItemFrameShiftActions.ItemFrameShiftActions
+api-version: '1.21'
